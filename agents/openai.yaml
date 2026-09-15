@@ -1,0 +1,4 @@
+interface:
+  display_name: "Axiom Bot Dashboard"
+  short_description: "Build a verified four-table bot throughput dashboard"
+  default_prompt: "Use $axiom-bot-dashboard to analyze this repository and create a single-bot Axiom dashboard with the Chabot-style four-table layout: hourly counts, daily counts, cumulative timing, and daily timing."
